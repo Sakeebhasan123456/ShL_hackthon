@@ -1,4 +1,4 @@
-# Detailed Explanation of Audio Classification Model
+# Detailed Explanation of Audio Grammer Model
 
 ## Overview
 This notebook implements an **audio classification/regression pipeline** that predicts continuous labels for audio files. The approach uses state-of-the-art pre-trained audio models for feature extraction combined with gradient boosting for prediction.
